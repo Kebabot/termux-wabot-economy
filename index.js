@@ -1,5 +1,5 @@
 /*
-Made by Jesen N#9071
+Made by kiba N#9071
 Sengaja bikin pake bahasa indo, kalau mau ganti, ganti aja
 */
 const { WAConnection, MessageType } = require("@adiwajshing/baileys");
