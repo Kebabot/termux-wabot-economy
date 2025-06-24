@@ -1,7 +1,7 @@
 {
-  "name": "termux-economy-bot",
+  "name": "kiba-economy-bot",
   "version": "1.0.0",
-  "description": "Bot termux",
+  "description": "Bot kiba",
   "main": "index.js",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.1",
